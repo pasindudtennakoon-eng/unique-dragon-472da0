@@ -1,0 +1,9 @@
+{
+  "name": "asiri-lucky-pot",
+  "version": "1.0.0",
+  "description": "Asiri Laboratories Avurudu Lucky Pot Game",
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
